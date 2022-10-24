@@ -11,3 +11,6 @@ node index.js
 1.cd vue3.0_Echarts  
 2.cd myapp  
 3.npm run serve
+
+### 四、作品展示  
+![HA65Y( G81BL3%(A 1)28T4](https://user-images.githubusercontent.com/107788475/197439027-09181347-b85a-4eaf-8b20-863fef8fc4ce.png)
